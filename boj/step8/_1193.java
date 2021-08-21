@@ -1,8 +1,6 @@
-package step8;
-
 import java.util.Scanner;
 
-public class Boj_1193 {
+public class _1193 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
